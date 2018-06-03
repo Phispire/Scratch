@@ -1,0 +1,2 @@
+# Scratch
+Crypto Trading Bot
